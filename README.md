@@ -1,4 +1,4 @@
-#Meetup/Talks :speaker:
+# Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
 | [Любители пощекотать топики или разработка событийно ориентированных систем с помощью кафка :movie_camera:](https://youtu.be/azY4gmpUWNQ)| Google Developer Group - DevParty 2020 | Jun 27, 2020 |
