@@ -1,6 +1,7 @@
 # Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
+| [Автоматизация код-ревью. Два года спустя. Григорий Скобелев, Java-разработчик :movie_camera:](https://youtu.be/lZBF1QV4ChE)| YooMoney Conf 2020 | Oct 26, 2020 |
 | [Очумелые ручки: пишем плагины для Atlassian :movie_camera:](https://youtu.be/whOqaCdrXY8)| Google Developer Group - DevFest 2020 | Oct 17, 2020 |
 | [Любители пощекотать топики или разработка событийно ориентированных систем с помощью кафка :movie_camera:](https://youtu.be/kUwuQkiccpM)| Google Developer Group - DevParty 2020 | Jun 27, 2020 |
 | [Методологии управления проектами в образовании :movie_camera:](https://youtu.be/azY4gmpUWNQ)| Podcast: IT за Edu | May 21, 2020 |
