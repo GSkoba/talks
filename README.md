@@ -1,8 +1,11 @@
 # Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
+| [Зашардируем это! Григорий Скобелев, программист отдела разработки серверных решений ЮMoney :movie_camera:](https://youtu.be/ngBOYuQ6A5I)| Java Jam 2021 | May 24, 2021 |
+| [Ведуший. Круглый стол: Особенности протоколов. Павел Агалецкий, Павел Черторогов, Антон Жуков :movie_camera:](https://youtu.be/HMTIUQPAbRs)| Podlodka Backend Crew 2020 | Apr 08, 2021 |
 | [Автоматизация код-ревью. Два года спустя. Григорий Скобелев, Java-разработчик :movie_camera:](https://youtu.be/lZBF1QV4ChE)| YooMoney Conf 2020 | Oct 26, 2020 |
 | [Очумелые ручки: пишем плагины для Atlassian :movie_camera:](https://youtu.be/whOqaCdrXY8)| Google Developer Group - DevFest 2020 | Oct 17, 2020 |
+| [Любители пощекотать топики и сделать батчи :movie_camera:](https://youtu.be/5Uxy0ayH8fE)| Google Developer Group - RndTech 2020 | Sep 11, 2020 |
 | [Любители пощекотать топики или разработка событийно ориентированных систем с помощью кафка :movie_camera:](https://youtu.be/kUwuQkiccpM)| Google Developer Group - DevParty 2020 | Jun 27, 2020 |
 | [Методологии управления проектами в образовании :movie_camera:](https://youtu.be/azY4gmpUWNQ)| Podcast: IT за Edu | May 21, 2020 |
 | [Spring-React workshop :file_folder:](https://github.com/GSkoba/spring-react-app)| Nexign bootcamp workshop | Mar 30, 2020 |
