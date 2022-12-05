@@ -1,6 +1,7 @@
 # Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
+| [UfoPodcast Highload](https://t.me/xufostation/804)| UfoStation Podcast 2022 | Sep 24, 2022 |
 | [Современное шифрование для Java-разработчика :movie_camera:](https://youtu.be/7dHNJcDLn2k)| Podlodka Java Crew 2022 | Sep 24, 2022 |
 | [Григорий Скобелев. Современное шифрование для backend разработчика :movie_camera:](https://youtu.be/70ppQGwXchk)| Dev Fest 2022 | May 24, 2022 |
 | [Зашардируем это! Григорий Скобелев, программист отдела разработки серверных решений ЮMoney :movie_camera:](https://youtu.be/ngBOYuQ6A5I)| Java Jam 2021 | May 24, 2021 |
