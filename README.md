@@ -1,6 +1,8 @@
 # Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
+| [Хост проекта книжный клуб {между скобок}](https://www.youtube.com/@mezhdu_skobok)| Между Скобок | All time |
+| [Директор программного комитета Podlodka Java/Backend/Techlead Crew](https://podlodka.io/crew)| Podlodka Crew | All time |
 | [Как стать JVM техлидом – Гриша Скобелев – Как мы попали в IT](https://youtu.be/LRAfngJMQ8Y?si=R_Xufj_fTUUqI1Vc)| Разрабы | Jun 4, 2024 |
 | [Переезд на Кипр, подкаст {между скобок} и директорство в Podlodka Crew – Григорий Скобелев – FW](https://youtu.be/6tCTdxrHkmg?si=J2N7LKHQYtRQjZxi)| Frontend Weekend | Nov 27, 2023 |
 | [Java-дайджест за октябрь — Книжный клуб .rar](https://youtu.be/srSwXJZBtO8?si=S4TJ6KTDO99nVgX9)| Its Tinkoff | Dec 15, 2023 |
