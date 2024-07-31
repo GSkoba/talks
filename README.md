@@ -1,6 +1,12 @@
 # Meetup/Talks :speaker:
  Topic | Type of talk | Date | 
 |---|---|---|
+| [Как стать JVM техлидом – Гриша Скобелев – Как мы попали в IT](https://youtu.be/LRAfngJMQ8Y?si=R_Xufj_fTUUqI1Vc)| Разрабы | Jun 4, 2024 |
+| [Переезд на Кипр, подкаст {между скобок} и директорство в Podlodka Crew – Григорий Скобелев – FW](https://youtu.be/6tCTdxrHkmg?si=J2N7LKHQYtRQjZxi)| Frontend Weekend | Nov 27, 2023 |
+| [Java-дайджест за октябрь — Книжный клуб .rar](https://youtu.be/srSwXJZBtO8?si=S4TJ6KTDO99nVgX9)| Its Tinkoff | Dec 15, 2023 |
+| [Зачем читать книги о программировании в 2024 году](https://youtu.be/t-6qsp-RN9k?si=u1WfP9t3BMDfc2T2)| Люди и Код | Dec 15, 2023 |
+| [Интервью в подкасте "Мы обречены"](https://youtu.be/ocQewuJ7ACI?si=y1UHRd7kYJI1YGGY)| Мы обречены | Sep 31, 2023 |
+| [Отток специалистов, какие сейчас зарплаты, льготы для it, как войти в IT | IT-трансформация](https://youtu.be/AmkFinWb3qQ?si=XJ9dTsVWzEKj-aif)| Нетология | Nov 27, 2022 |
 | [UfoPodcast Highload](https://t.me/xufostation/804)| UfoStation Podcast 2022 | Sep 24, 2022 |
 | [Современное шифрование для Java-разработчика :movie_camera:](https://youtu.be/7dHNJcDLn2k)| Podlodka Java Crew 2022 | Sep 24, 2022 |
 | [Григорий Скобелев. Современное шифрование для backend разработчика :movie_camera:](https://youtu.be/70ppQGwXchk)| Dev Fest 2022 | May 24, 2022 |
